@@ -1,0 +1,11 @@
+This file is to save all the commands learned during the capstone cmsc495 in september 2024.
+Commands:
+nb all git commands have git and the the command name. 
+- git init
+- git clone
+- git add
+- git status
+- git log
+- git commit
+- git push
+- git pull
